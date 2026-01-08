@@ -1,5 +1,3 @@
-# Medical-Insurance-Cost-Analysis
-Exploratory data analysis and predictive modeling of medical insurance costs using Python, pandas, scikit-learn, and machine learning techniques.
 # Medical Insurance Cost Analysis & Predictive Modeling
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
@@ -52,4 +50,4 @@ Comprehensive analysis of a medical insurance dataset (100,000 records) to under
 - Add cost-benefit analysis of interventions
 
 ---
-*Portfolio project by [Your Name] • Data Analyst • January 2026*
+*Portfolio project by Sumit Sarode • Data Analyst • January 2026*
